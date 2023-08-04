@@ -27,4 +27,12 @@
   <a href="https://www.linkedin.com/in/gustavo-fernandes-3653b5258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<br>
+
+<div align = "center">
+<H4> CONTAGEM DE VISITANTES </h4>
+<img src="https://profile-counter.glitch.me/{GustavoFGM}/count.svg"/>
+</div>
+
+<br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19376D&height=120&section=footer"/>
